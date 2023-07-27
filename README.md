@@ -67,6 +67,13 @@
 
 <br/>  
 
+## Soft Skills  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+  * hola
+</div>
+
 
 
 ## Connect with me  
