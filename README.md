@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on projects to fully affirm my skills and knowledge and thus strengthen my training as a developer.  
   
 
-- 🌱 I’m currently learning Typescript and Python  
+- 🌱 I’m currently learning Typescript and Python.  
   
 
-- ❓ Ask me about anything, i'm here to help and learn  
+- ❓ Ask me about anything, i'm here to help and learn.  
   
 
-⚡ Hobbies: Doing sports, playing the piano, and singing👍  
+⚡ Hobbies: Doing sports, playing the piano, and singing 👍.  
   
 
 <br/>  
@@ -71,10 +71,20 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-  * hola
+- Empathetic.  
+  
+- Adaptability.  
+  
+- Commited.
+
+- Problem-solver
+
+- Self-taught  
+
 </div>
 
 
+</td></tr></table>  
 
 ## Connect with me  
 <div align="center">
