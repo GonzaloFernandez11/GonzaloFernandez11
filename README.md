@@ -68,7 +68,6 @@
 <br/>  
 
 ## Soft Skills
-<div align="center">  
 
 - Empathetic.
   
@@ -79,8 +78,6 @@
 - Problem-solver.
 
 - Self-taught.
-
-</div>
 
 
 ## Connect with me  
