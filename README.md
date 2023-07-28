@@ -67,24 +67,21 @@
 
 <br/>  
 
-## Soft Skills  
-<table><tr><td valign="top" width="33%">
-
+## Soft Skills
 <div align="center">  
-- Empathetic.  
+
+- Empathetic.
   
 - Adaptability.  
   
 - Commited.
 
-- Problem-solver
+- Problem-solver.
 
-- Self-taught  
+- Self-taught.
 
 </div>
 
-
-</td></tr></table>  
 
 ## Connect with me  
 <div align="center">
