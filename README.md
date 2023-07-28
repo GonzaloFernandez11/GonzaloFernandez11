@@ -13,7 +13,7 @@
 - ❓ Ask me about anything, i'm here to help and learn.  
   
 
-⚡ Hobbies: Doing sports, playing the piano, and singing 👍.  
+- ⚡ Hobbies: Doing sports, playing the piano, and singing 👍.  
   
 
 <br/>  
