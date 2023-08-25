@@ -16,7 +16,7 @@
 - ⚡ Hobbies: Doing sports, playing the piano, and singing 👍.
 
 
-- 💻 Link to my latest collaborative project: MoviePlayFront
+- 💻 Link to my latest collaborative project: https://luiggi2092.github.io/MoviePlayFront
 
 
 - 😄 Lenguages:
