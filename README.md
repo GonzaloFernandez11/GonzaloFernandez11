@@ -17,8 +17,8 @@
 
 
 - 😄 Lenguages:
-- Spanish (Native)
-- English (C1 Advanced) --> Certificate: https://www.efset.org/cert/krq77P
+  - Spanish (Native)
+  - English (C1 Advanced) --> Certificate: https://www.efset.org/cert/krq77P
 
 <br/>  
 
