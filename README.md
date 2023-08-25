@@ -16,6 +16,9 @@
 - ⚡ Hobbies: Doing sports, playing the piano, and singing 👍.
 
 
+- 💻 Link to my latest collaborative project: MoviePlayFront
+
+
 - 😄 Lenguages:
   - Spanish (Native)
   - English (C1 Advanced) --> Certificate: https://www.efset.org/cert/krq77P
