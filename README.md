@@ -1,4 +1,4 @@
-# <div align="center">Hey, I’m Gonzalo, a Full-Stack Developer 😄</div>  
+ <div align="center">Hey, I’m Gonzalo, a Full-Stack Developer 😄</div>  
   
 
 - 😎 I’m a Full Stack Developer with a great ability to work in teams, solve problems, and a strong passion for code and technologies, with the ambition to continue learning and undertake significant projects.  
