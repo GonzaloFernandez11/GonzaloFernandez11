@@ -102,7 +102,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloFernandez11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloFernandez11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloFernandez11&hide_border=true&layout=compact" align="left" />  
 
