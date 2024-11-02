@@ -98,13 +98,16 @@
 </div>  
   
 
+## GitHub Stats
 <br/>  
+<div align="center">
 
-![GonzaloFernandez11's Stats](https://github-readme-stats.vercel.app/api?username=GonzaloFernandez11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![GonzaloFernandez11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloFernandez11&theme=vue-dark&hide_border=true)
-![GonzaloFernandez11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloFernandez11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GonzaloFernandez11's Stats](https://github-readme-stats.vercel.app/api?username=GonzaloFernandez11&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![GonzaloFernandez11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloFernandez11&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
-<br/>  
+</div>
+
+<br/>
 
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
