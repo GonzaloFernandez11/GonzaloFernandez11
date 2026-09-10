@@ -1,13 +1,14 @@
  <div align="center"><h1>Hey, I’m Gonzalo, a Full-Stack Developer 😄</h1></div>  
+
+ <div><h3>💻 Full Stack Developer | 🎓 Estudiante de Licenciatura en Sistemas</h3></div>
+
+- 😎 I’m a Full Stack Developer currently studying for a <b>Bachelor's Degree in Systems at Universidad Nacional de General Sarmiento (UNGS).</b>  
   
 
-- 😎 I’m a Full Stack Developer with a great ability to work in teams, solve problems, and a strong passion for code and technologies, with the ambition to continue learning and undertake significant projects.  
+- I'm a graduate of <b>SoyHenry</b>, where i gained experience building web applications and working with modern technologies from the Javascript echosystem.
   
 
-- 🔭 I’m currently working on projects to fully affirm my skills and knowledge and thus strengthen my training as a developer.  
-  
-
-- 🌱 I’m currently learning Typescript and Python.  
+- I’m currently focused on strenghtening my skills, building personal projects, and growing as a developer.   
   
 
 - ❓ Ask me about anything, i'm here to help and learn.  
