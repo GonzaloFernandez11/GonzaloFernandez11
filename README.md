@@ -1,8 +1,8 @@
- <div align="center"><h1>Hey, I’m Gonzalo, a Full-Stack Developer 😄</h1></div>  
+ <div align="center"><h1>Hey, I’m Gonzalo, a Full-Stack Developer</h1></div>  
 
  <div align="center"><h3>💻 Full Stack Developer | 🎓 Estudiante de Licenciatura en Sistemas</h3></div>
 
-- 😎 I’m a Full Stack Developer currently studying for a <b>Bachelor's Degree in Systems at Universidad Nacional de General Sarmiento (UNGS).</b>  
+- I’m a Full Stack Developer currently studying for a <b>Bachelor's Degree in Systems at Universidad Nacional de General Sarmiento (UNGS).</b>  
   
 
 - I'm a graduate of <b>SoyHenry</b>, where i gained experience building web applications and working with modern technologies from the Javascript echosystem.
@@ -10,7 +10,7 @@
 
 - I’m currently focused on strenghtening my skills, building personal projects, and growing as a developer.    
 
-- 😄 Lenguages:
+- Lenguages:
   - Spanish (Native)
   - English (C1 Advanced) --> Certificate: https://www.efset.org/cert/krq77P
 
