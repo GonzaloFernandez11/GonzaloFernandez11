@@ -1,6 +1,6 @@
  <div align="center"><h1>Hey, I’m Gonzalo, a Full-Stack Developer</h1></div>  
 
- <div align="center"><h3>💻 Full Stack Developer | 🎓 Estudiante de Licenciatura en Sistemas</h3></div>
+ <div align="center"><h3>💻 Full Stack Developer | 🎓 System Engineering Student</h3></div>
 
 - I’m a Full Stack Developer currently studying for a <b>Bachelor's Degree in Systems at Universidad Nacional de General Sarmiento (UNGS).</b>  
   
