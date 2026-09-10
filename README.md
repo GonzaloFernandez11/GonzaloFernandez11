@@ -18,7 +18,7 @@
 
 
 ## Technologies  
-<table align="center" width="50%"><tr><td align="top" width="33%">
+<table width="50%"><tr><td align="top" width="33%">
 
 
 
